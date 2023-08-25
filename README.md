@@ -19,8 +19,8 @@ Fork of [wkeller's](https://forums.mydigitallife.net/members/wkeller.190847) [In
 - The word 'Shortcut' added to shortcuts when they are created has been retained
 - The default settings for displaying icons on the taskbar has been retained
 - User Account Control has been kept enabled
-- WBEM logs has been kept enabled
-- CBS logs has been kept enabled
+- WBEM logs have been kept enabled
+- CBS logs have been kept enabled
 - Preventive CHKDSK scan service will not be disabled
 - Scheduled defragmentation/optimization service of Disk Defragmenter will not be disabled
 - Disk Diagnostic service will not be disabled
